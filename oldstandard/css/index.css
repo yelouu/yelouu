@@ -1,0 +1,468 @@
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+.main{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.index_item {
+    background-image: url("../img/1.svg");
+    width: 100%;
+    height: 1605px;
+    display: block;
+    left: 0;
+    top: 0;
+}
+
+.text1 {
+    font-family: "OldStandardTT-Regular";
+    font-size: 25px;
+    padding-left: 16%;
+    padding-top: 70%;
+    padding-bottom: 5%;
+}
+
+.text2 {
+    font-family: "OldStandardTT-Regular";
+    position:absolute;
+    margin-top: -1%;
+    padding-left: 12%;
+    font-size: 25px;
+    text-align:center;
+
+}
+
+.nch {
+    font-family: "OldStandardTT-Bold";
+    padding-top: 23.5%;
+    padding-left: 18%;
+    font-size: 157px;
+    color: black;
+    transform: rotate(-1deg);
+    letter-spacing: -23px;
+}
+
+.item2 {
+    background-image: url("../img/2.svg");
+    width: 100%;
+    height: 700px;
+    display: block;
+    left: 0;
+    
+}
+
+.item3 {
+    background-image: url("../img/3.svg");
+    width: 100%;
+    height: 2335px;
+    display: block;
+    left: 0;
+    margin-top:-0.3%;
+}
+
+.firm {
+    padding-top: 143%;
+    padding-left: 25%;
+    font-size: 340px;
+    color: white;
+    font-weight: 400;
+    font-family: "OldStandardTT-bold";
+}
+
+.t3 {
+    font-family: "OldStandardTT-regular";
+    color: white;
+    padding-left: 12.5%;
+    font-size: 30px;
+}
+
+.t4 {
+    font-family: "OldStandardTT-regular";
+    color: white;
+    padding-top: 82%;
+    padding-left: 12.5%;
+    font-size: 30px;
+}
+
+.t5 {
+    font-family: "OldStandardTT-regular";
+    color: white;
+    padding-top: 10%;
+    padding-left: 12.5%;
+    font-size: 30px;
+}
+
+.rcp {
+    background-image: url("../img/receipt.svg");
+    width: 100%;
+    height: 1203px;
+    display: block;
+    left: 0;
+    margin-top: -120%;
+}
+
+.tik {
+    background-image: url("../img/ticket.svg");
+    width: 100%;
+    height: 538px;
+    display: block;
+    left: 0;
+    margin-top: -125%; 
+}
+
+.sm {
+    background-image: url("../img/smiley.svg");
+    width: 100%;
+    height: 1000px;
+    display: block;
+    left: 0;
+    margin-top: 0%; 
+    margin-left: 10%;
+}
+
+.item4 {
+    background-image: url("../img/4.svg");
+    width: 100%;
+    height: 1790px;
+    display: block;
+    left: 0;
+    margin-top: 53%;
+}
+
+.item5 {
+    background-image: url("../img/5.svg");
+    width: 100%;
+    height: 1790px;
+    display: block;
+    left: 0;
+    margin-top: 0.1%;
+}
+
+.item5-1 {
+    background-image: url("../img/smboxx.svg");
+    width: 100%;
+    height: 640px;
+    display: block;
+    left: 0;
+    margin-top: 12%;
+}
+
+.t6 {
+    font-family: "OldStandardTT-regular";
+    color: white;
+    padding-top:2%;
+    padding-left: 12.5%;
+    font-size: 30px;
+}
+
+.t7 {
+    font-family: "OldStandardTT-Bold";
+    padding-top: 25%;
+    padding-left: 1%;
+    font-size: 157px;
+    color: black;
+    letter-spacing: -23px;
+}
+
+.item6 {
+    background-image: url("../img/6.svg");
+    width: 100%;
+    height: 1130px;
+    display: block;
+    left: 0;
+    margin-top: -15%;
+}
+
+.t8 {
+    font-family: "OldStandardTT-Bold";
+    font-size: 29px;
+    padding-left: 13%;
+    padding-top: 20%;
+    letter-spacing: 13px;
+    transform: rotate(-0.5deg);
+}
+
+.mcmln {
+    font-family: "OldStandardTT-Bold";
+    padding-top: 1%;
+    padding-left: 11.5%;
+    font-size: 157px;
+    color: black;
+    letter-spacing: -23px;
+}
+.t9 {
+    font-family: "OldStandardTT-Bold";
+    font-size: 29px;
+    padding-left: 13%;
+    padding-top: -1%;
+    letter-spacing: 13px;
+}
+
+.che {
+    font-family: "OldStandardTT-regular";
+    padding-top: -1%;
+    padding-left: 11.5%;
+    font-size: 157px;
+    color: black;
+    letter-spacing: -23px;
+}
+
+.t10 {
+    font-family: "OldStandardTT-Bold";
+    font-size: 29px;
+    padding-left: 13%;
+    padding-top: 3%;
+    letter-spacing: 13px;
+}
+
+.kak {
+    font-family: "OldStandardTT-regular";
+    padding-top: -3%;
+    padding-left: 11.5%;
+    font-size: 157px;
+    color: black;
+    letter-spacing: -23px;
+}
+
+.t11 {
+    font-family: "OldStandardTT-Bold";
+    font-size: 29px;
+    padding-left: 13%;
+    padding-top: 3%;
+    letter-spacing: 13px;
+}
+
+.nam {
+    font-family: "OldStandardTT-italic";
+    padding-top: -10%;
+    padding-left: 11.5%;
+    font-size: 157px;
+    color: black;
+    letter-spacing: -23px;
+}
+
+.item7 {
+    background-image: url("../img/7.svg");
+    width: 100%;
+    height: 1965px;
+    display: block;
+    left: 0;
+    margin-top: -0.5%;
+}
+
+.t12 {
+    font-family: "OldStandardTT-Bold";
+    font-size: 29px;
+    padding-left: 13%;
+    padding-top: 16%;
+    letter-spacing: 13px;
+}
+
+.ltn {
+    font-family: "OldStandardTT-bold";
+    padding-top: 2%;
+    padding-left: 11.5%;
+    font-size: 280px;
+    color: black;
+    letter-spacing: -23px;
+}
+
+.t13 {
+    position: absolute;
+    font-family: "OldStandardTT-Bold";
+    font-size: 29px;
+    padding-left: 17%;
+    padding-top: 33.5%;
+    letter-spacing: 13px;
+}
+
+.fox {
+    font-family: "OldStandardTT-bold";
+    padding-top: 40%;
+    padding-left: 11.5%;
+    font-size: 240px;
+    color: black;
+    letter-spacing: -23px;
+}
+
+.t14 {
+    position: absolute;
+    font-family: "OldStandardTT-Bold";
+    font-size: 29px;
+    padding-left: 17%;
+    padding-top: 1%;
+    letter-spacing: 13px;
+}
+
+.dog {
+    font-family: "OldStandardTT-italic";
+    padding-top: 3%;
+    padding-left: 13%;
+    font-size: 180px;
+    color: black;
+    letter-spacing: -23px;
+}
+.item8 {
+    background-image: url("../img/8.svg");
+    width: 100%;
+    height: 1530px;
+    display: block;
+    left: 0;
+    margin-top: 0%;
+}
+.pnc {
+    font-family: "OldStandardTT-Bold";
+    padding-top: 4%;
+    padding-left: 23%;
+    font-size: 157px;
+    color: black;
+    transform: rotate(-0.5deg);
+    letter-spacing: -23px;
+}
+.t15 {
+    position: absolute;
+    text-align:right;
+    font-family: "OldStandardTT-Bold";
+    font-size: 29px;
+    padding-left: 43%;
+    padding-top: 55%;
+    letter-spacing: 4px;
+}
+.item9 {
+    background-image: url("../img/9.svg");
+    width: 100%;
+    height: 1530px;
+    display: block;
+    left: 0;
+    margin-top: 130%;
+}
+
+.card {
+    background-image: url("../img/cards.svg");
+    width: 100%;
+    height: 885px;
+    display: block;
+    left: 0;
+    margin-top: -120%;
+    margin-left: 5%;
+}
+.gl {
+    font-family: "OldStandardTT-Bold";
+    padding-top: -1%;
+    padding-left: 55%;
+    font-size: 157px;
+    color: rgb(255, 255, 255);
+    letter-spacing: -23px; 
+}
+
+.t16 {
+    position: absolute;
+    text-align:right;
+    font-family: "OldStandardTT-Bold";
+    font-size: 29px;
+    padding-left: 4%;
+    padding-top: 44%;
+    letter-spacing: 4px;
+    color: white;
+}
+.rr {
+    background-image: url("../img/rrr.svg");
+    width: 100%;
+    height: 1858px;
+    display: block;
+    left: 0;
+    margin-top: -42%; 
+    margin-left: 8%;
+}
+.t16 {
+    position: absolute;
+    text-align:left;
+    font-family: "OldStandardTT-Bold";
+    font-size: 32px;
+    padding-left: 0%;
+    padding-top: 48%;
+    letter-spacing: 1px;
+}
+.a {
+    font-family: "OldStandardTT-Bold";
+    padding-top: 64%;
+    padding-left: -20%;
+    font-size: 450px;
+    color: white;
+    transform: rotate(-0.5deg);
+    letter-spacing: -23px;
+}
+.item11 {
+    background-image: url("../img/11.svg");
+    width: 100%;
+    height: 1528px;
+    display: block;
+    left: 0;
+    margin-top: 0%;
+}
+.osb {
+    font-family: "OldStandardTT-Bold";
+    padding-top: 23%;
+    padding-left: 21%;
+    font-size: 160px;
+    color: black;
+    transform: rotate(-0.5deg);
+    letter-spacing: -23px;
+}
+.f {
+    font-family: "OldStandardTT-Bold";
+    padding-top: 1.6%;
+    padding-left: 13.6%;
+    font-size: 690px;
+    color: rgb(0, 0, 0);
+    transform: rotate(-0.5deg);
+    letter-spacing: -23px;
+}
+.t17 {
+    position: absolute;
+    text-align:right;
+    font-family: "OldStandardTT-Bold";
+    font-size: 40px;
+    padding-left: 12%;
+    padding-top: 7%;
+    letter-spacing: 1px;
+}
+.item12 {
+    background-image: url("../img/12.svg");
+    width: 100%;
+    height: 1530px;
+    display: block;
+    left: 0;
+    margin-top: 9%;
+}
+
+.item13 {
+    background-image: url("../img/13.svg");
+    width: 100%;
+    height: 900px;
+    display: block;
+    left: 0;
+    margin-top: 9%;
+}
+.grp{
+    position: absolute;
+    text-align:right;
+    font-family: "OldStandardTT-Bold";
+    font-size: 40px;
+    padding-left: 80%;
+    padding-top: 8%;
+    letter-spacing: 1px;
+    transform:rotate(6deg);
+}
+.me{
+    position: absolute;
+    text-align:right;
+    font-family: "OldStandardTT-Bold";
+    font-size: 40px;
+    padding-left: 61%;
+    padding-top: 16.7%;
+    letter-spacing: 1px;
+    transform:rotate(6deg);
+}
